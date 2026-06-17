@@ -27,13 +27,12 @@ Introducing Polytechnic College of La Union (PCLU) 's Team B of Future Engineer 
     
 
 
- # <b> 1. Introduction </b>
- <div align="center">
-     <img width=100% src="t.photos/future_eng_team_b.jpg"></img>
-### <i> <b> Team and Vehicle Name: Tayag </i> </b>
- This presents the Engineering Document of Polytechnic Colege of La Union-Team B as participants of the category Future Engineer on WRO Philippines 2026.
+# <b>1. Introduction</b>
+<div align="center"><img width=100% src="t.photos/future_eng_team_b.jpg"></img></div>
+<h2 align="center"><i><b>Team and Vehicle Name: Tayag</b></i></h2>
+This presents the Engineering Document of Polytechnic Colege of La Union-Team B as participants of the category Future Engineer on WRO Philippines 2026.
  
- This repository includes information about our robot's mechanism, integration, logic and it also includes our journey on building the robot. This is supported by resources such as images, diagrams and recorded demonstration enable to provide clear understanding and transparency about the work.
+This repository includes information about our robot's mechanism, integration, logic and it also includes our journey on building the robot. This is supported by resources such as images, diagrams and recorded demonstration enable to provide clear understanding and transparency about the work.
 
  ## 1.1 Team Overview
  | Picture | Name | Age | About Us
