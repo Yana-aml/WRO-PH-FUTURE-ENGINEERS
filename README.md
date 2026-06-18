@@ -42,7 +42,7 @@ This repository includes information about our robot's mechanism, integration, l
  | Naithan T. Velasco | 17 | The brain of the team. He serves as both programmer and builder. He is drawn to problem-solving activities such as chess, solving Rubik's cubes, and playing online games, which sharpen his logical and thinking. He is also an active badminton player. His programming and building expertise are essential for bringing the team's autonomous car robot to life, from coding its navigation logic, to assembling and designing the robot. Social:<a href="https://www.instagram.com/naithanvelasco/?utm_source=ig_web_button_share_sheet" target="_blank">@naithanvelasco</a>
  
  ## 1.2 Team Coordination
- The we have the team structured itself with clear roles and regular communication to ensure progress throughout the proccess. We have different roles, the role—programmer, builder, technical writer, each are designated for each tasks.
+ We have the team structured itself with clear roles and regular communication to ensure progress throughout the proccess. We have different roles, the role—programmer, builder, technical writer, each are designated for each tasks.
  For us to have a seamless collaboration, each shared a different vision and opinion to improve our project. Beyond tasks execution, se hsve to perform mutual accountability and peer learning. To us balanced structure of roles, frequent communication and a shared reponsibility would make the our team to work more efficiently and move steadily from the start up inro the competition.
  <br><br>Team Members: **Aliana Marquez, Naithan Tuvera, Kendrick Garcia**
  <br>Team Coach: **Michael James Estipular Ergino**
