@@ -1,21 +1,21 @@
 # WRO-PH-FUTURE-ENGINEERS
 Introducing Polytechnic College of La Union (PCLU) 's Team B of Future Engineer Category on WRO-Philippines 2026, Limitlessly Soaring with Technology
 # <b>📄 Table of Contents </b>
-- 👤 [1. Introduction](#1-introduction) 
+- 👤 <b>[1. Introduction](#1-introduction)</b> 
     - [1.1 Team Overview ](#11-team-overview)
     - [1.2 Team Coordination](#12-team-coordination)
     - [1.3 Participation Motives](#13-participation-motives)
-- 🚗 [2. About the Robotic Vehicle](#2-about-the-robotic-vehicle)
+- 🚗 <b>[2. About the Robotic Vehicle](#2-about-the-robotic-vehicle)</b>
     - [2.1 Logic of the Robotic Vehicle](#21-logic-of-the-robotic-vehicle)
     - [2.2 Prototype](#22-prototype)
     - [2.3 Flow Diagram](#23-flow-diagram)
     - [2.4 Why LEGO Spike Prime?](#24-why-lego-spike-prime)
-- ⚙️ <b> [3. Mobility Management](#3-mobility-management) </b>
+- ⚙️ <b>[3. Mobility Management](#3-mobility-management)</b>
     - [3.1 Bill of Materials](#31-bill-of-materials)
     - [3.2 Wiring Diagram](#32-wiring-diagram)
     - [3.3 Steering Mechanism](#33-steering-mechanism)
     - [3.4 Driving Mechanism](#34-driving-mechanism)
-- 🔋 <b>[4.Power Sense Management](#4-power-sense-management) </b>
+- 🔋 <b>[4.Power Sense Management](#4-power-sense-management)</b>
     - [4.1 Power Supply](#41-power-supply)
         - [4.1.1 Technic™ Large Hub Rechargeable Battery](#411-technic-large-hub-rechargeable-battery)
     - [4.2 Sensors](#42-sensors)
@@ -130,7 +130,7 @@ This repository includes information about our robot's mechanism, integration, l
 - SPIKE Prime supports programmable logic, enabling us to create a fully autonomous robot that can make decisions based on sensor input.
 Overall, we chose SPIKE Prime because it is reliable, flexible, and well-suited for developing an efficient and accurate autonomous robot
  
- # <b> 3. Mobility Management </b>
+ # <b>3. Mobility Management</b>
  ## 3.1 Bill of Materials
 | Picture| Components | Quantity | Purpose |
 |:---:| :---: | :---: | :---: |
@@ -163,7 +163,7 @@ The used two large gears, one connected to the large angular motor, it is to tra
 Even though we are using only one motor, the differential allows both wheels to move effectively and adjust their speeds when turning. This reduces friction, prevents slipping, and improves stability.
 
  The team designed the rear driving to be efficient, lightweight, and capable of producing smooth and controlled movement, which is essential for completing the three laps.
- # <b> 4. Power Sense Management </b>
+ # <b>4. Power Sense Management</b>
  - The robot uses a rechargeable battery included into the spike prime hub, which act as the power source and the main controller. The hub allows simultaneous activity by distributing power to the components while processing data and running the robot.
 ## 4.1 Power Supply 
 ### 4.1.1 Technic™ Large Hub Rechargeable Battery
@@ -196,7 +196,7 @@ When the camera detects a green object, it sends a signal to the hub, and the ro
 
 The HuskyLens works together with the distance sensors. While the camera identifies what the object is, the distance sensors ensure the robot maintains a safe distance from walls. This combination improves accuracy and prevents collisions. It adds a vision system to our robot, enabling it to recognize obstacles and respond correctly, which is essential for completing the obstacle challenge successfully.
 
- # <b> 5. Managing Challenges </b>
+ # <b>5. Managing Challenges</b>
  ## 5.1 Open Challenge
  For the open challenge, the robot is programmed to complete three full laps while avoiding the surrounding walls and stopping at its exact starting position.
 
