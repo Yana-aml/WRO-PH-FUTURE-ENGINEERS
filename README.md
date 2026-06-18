@@ -132,15 +132,19 @@ Overall, we chose SPIKE Prime because it is reliable, flexible, and well-suited 
  
  # <b> 3. Mobility Management </b>
  ## 3.1 Bill of Materials
-| Components | Quantity | Purpose |
-| :---: | :---: | :---: |
-| LEGO Technic Large Hub| 1 | used to power the robot
-| Medium Motor | 1 | used for steering
-| Large Motor | 1 | used for driving of the rear mechanism of the robot
-| Distance Sensors | 2 | used to dectects the wall, in front and one on its side
-| Husky Lense | 1 | a device that is used to detect the colored obstacle 
-| Jumper Wire| several were used | used to connect the camera onto the LPF 2
-| LEGO Powered Up Function 2 | 1 |  transporting data camera to hub via jumper wire
+| Picture| Components | Quantity | Purpose |
+|:---:| :---: | :---: | :---: |
+| <img width="100%" src="others/BOM/TechnicSpikeHub.jpg" > |LEGO Technic Large Hub| 1 | used to power the robot
+| <img width="736" height="736" alt="MediumAngularMotor" src="https://github.com/user-attachments/assets/7f89d8dc-a3ef-499c-b244-8596db400603" />| Medium Motor | 1 | used for steering
+| <img width="736" height="736" alt="LargeAngularMotor" src="https://github.com/user-attachments/assets/866299bf-008e-4e42-8092-8b0be2dc5bce" />
+|Large Motor | 1 | used for driving of the rear mechanism of the robot
+| <img width="736" height="736" alt="Distancesensors" src="https://github.com/user-attachments/assets/b469a83b-bc39-4444-9bee-46cb3719ebef" />|Distance Sensors | 2 | used to dectects the wall, in front and one on its side
+| <img width="736" height="736" alt="huskylense" src="https://github.com/user-attachments/assets/636ad106-82bc-47d1-b7d5-611aa4ab68ed" />
+|Husky Lense | 1 | a device that is used to detect the colored obstacle 
+| <img width="736" height="736" alt="jumperwires" src="https://github.com/user-attachments/assets/e6c491b2-aaae-45b9-ba3e-65848677e9c3" />
+|Jumper Wire| several were used | used to connect the camera onto the LPF 2
+| <img width="736" height="736" alt="LPF2" src="https://github.com/user-attachments/assets/ae1ac731-d5d9-4c8c-b739-6326d72940b4" />
+|LEGO Powered Up Function 2 | 1 |  transporting data camera to hub via jumper wire
 
  ## 3.2 Wiring Diagram
  ## 3.3 Steering Mechanism
