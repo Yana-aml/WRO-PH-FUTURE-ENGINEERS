@@ -230,7 +230,7 @@ Clockwise or counterclockwise
 
 
 # STOP
-``` psuedo code
+```python
 while True:
     if stop == 12:
         wait_for_seconds(1)
@@ -239,7 +239,7 @@ while True:
 ```
 
 # Start Program
-```m
+```python
 hub = PrimeHub()
 Drive = Motor('A')
 Steering = Motor('C')
@@ -317,7 +317,7 @@ while not (dis(Fdist) < 0 and dis(Rdist) > 0):
 
 
 # Clockwise
-```m
+```python
 while not (dis(Fdist) < 0 and dis(Rdist) < 0):
     if Fdist(sensor_D) < 0:
         if Rdist(sensor_F) > 0:
