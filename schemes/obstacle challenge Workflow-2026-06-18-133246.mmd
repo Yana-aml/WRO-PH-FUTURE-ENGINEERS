@@ -1,0 +1,23 @@
+flowchart TD
+   A --> B[pre opration check]
+   B --> C(position robot)
+   C --> D(start run)
+   D --> E{wall detection}
+   E --close--> F(counter-clockwise)
+   E --far--> G(clockwise)
+   F -->H[get out of parking]
+   G -->H
+   H -->I{if the camera detected color:}
+   I --red--> J(Right)
+   I --green--> K(Left)
+   J --> L( if the distance sensor detected the walls close:)
+   K -->L
+   L -->M(it will run backward)
+   M -->N(then the robot will turn clockwise and counter-clockwise)
+   N -->O[turn count]
+   O -->I
+   O -->P( 12 count stop)
+   P -->Q(park)
+   Q -->R[end program]
+
+

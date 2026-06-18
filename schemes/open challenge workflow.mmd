@@ -1,0 +1,29 @@
+flowchart TD
+    A[pre-operation check] --> B(position robot)
+    B --> C(straight run)
+    C --> D{if distance sensor detected the walls close }
+    D --Yes--> E(choose direction)
+    D --NO--> F(run with gyro) 
+    F -->D
+    E --> G{if right distance sensor is:}
+    G --close--> H(backward in x rotation)
+    G --far--> I(backward in x rotation)
+    H --> J(counter-clockwise)
+    I -->K(clockwise)
+    J -->L[wait until gyro is 90 degrees]
+    K -->L
+    L -->M(straight steering)
+    M -->N{turn count}
+    N -->E
+    N -->O(stop:12 count)
+    O -->P[end program]
+
+
+
+    
+    
+
+    
+    
+    
+   
