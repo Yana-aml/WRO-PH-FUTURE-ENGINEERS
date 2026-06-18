@@ -50,7 +50,7 @@ This repository includes information about our robot's mechanism, integration, l
  ## 1.3 Participation Motives
  We are honored to represent Polytechnic College of La Union in the WRO Philippines 2026, under the Future Engineer category. We believe that this competition's challenges is the best way to learn and prepare on rapidly changing technology.  Representing our school gives us extra motivation to push harder and make our istitution proud. <br>This competition gives us the opportunity to showcase our skills in STEM and allows us to apply it through robotics.  Ultimately, the team is motivated by the purpose of contributing to the future mobility as we vision this activity as a stepping stone toward real-world solution. Together, we will join this competition to build something meaningful, grow as engineers and make our school proud.
 
- # <b> 2. About the Robotic Vehicle </b>
+ # <b>2. About the Robotic Vehicle</b>
  ## 2.1 Logic of the Robotic Vehicle
  The team developed the robotic vehicle using the LEGO Spike Prime System together with the design, sensors and programming to perform autonomous in two different challenges. This system can be used to both the Open Challenge and the Obstacle Challenge:
 1. The operation begins when the robot is powered on using the Start button. Once activated, the robot will do its programmed instructions, which decides whether it will go in a clockwise or counterclockwise direction. This command build the robot's navigation throughout the lap.
