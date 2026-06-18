@@ -35,11 +35,11 @@ This presents the Engineering Document of Polytechnic Colege of La Union-Team B 
 This repository includes information about our robot's mechanism, integration, logic and it also includes our journey on building the robot. This is supported by resources such as images, diagrams and recorded demonstration enable to provide clear understanding and transparency about the work.
 
  ## 1.1 Team Overview
- | Picture | Name | Age | About Us
- | :---: | :---: | :---: | :---: |
- | | Aliana Marie L. Marquez | 17 | She is the technical writer/protyper of the PCLU Team B under the category Future Engineer on WRO Philippines 2026. She enjoys writing, sketching and painting—typical creative pursuits. She is also explorative and eager to learn, especially when faced with challenges that engaged her intellect. Social:<a href="https://www.instagram.com/ml.yvnx?igsh=MXUzdHVyOXJxN2N6NA==" target="_blank">@ml.yvnx</a>|
- | | Kendrick Nathaniel L. Garcia | 16 |The builder and assistant document writer of the team. He enjoys playing online games and engaging in physical activities such as basketball—both of which sharpen his strategic thinking and teamwork, that is also an essential skills for constructing and troubleshooting the car robot. In combining his creativity and hands-on problem-solving skills he brings their project to life. Social:<a href="https://www.instagram.com/urlazy_kenken?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">@urlazy_kenken</a>|
- | | Naithan T. Velasco | 17 | The brain of the team. He serves as both programmer and builder. He is drawn to problem-solving activities such as chess, solving Rubik's cubes, and playing online games, which sharpen his logical and thinking. He is also an active badminton player. His programming and building expertise are essential for bringing the team's autonomous car robot to life, from coding its navigation logic, to assembling and designing the robot. Social:<a href="https://www.instagram.com/naithanvelasco/?utm_source=ig_web_button_share_sheet" target="_blank">@naithanvelasco</a>
+ | Name | Age | About Us
+ | :---: | :---: | :---: |
+ | Aliana Marie L. Marquez | 17 | She is the technical writer/protyper of the PCLU Team B under the category Future Engineer on WRO Philippines 2026. She enjoys writing, sketching and painting—typical creative pursuits. She is also explorative and eager to learn, especially when faced with challenges that engaged her intellect. Social:<a href="https://www.instagram.com/ml.yvnx?igsh=MXUzdHVyOXJxN2N6NA==" target="_blank">@ml.yvnx</a>|
+ | Kendrick Nathaniel L. Garcia | 16 |The builder and assistant document writer of the team. He enjoys playing online games and engaging in physical activities such as basketball—both of which sharpen his strategic thinking and teamwork, that is also an essential skills for constructing and troubleshooting the car robot. In combining his creativity and hands-on problem-solving skills he brings their project to life. Social:<a href="https://www.instagram.com/urlazy_kenken?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">@urlazy_kenken</a>|
+ | Naithan T. Velasco | 17 | The brain of the team. He serves as both programmer and builder. He is drawn to problem-solving activities such as chess, solving Rubik's cubes, and playing online games, which sharpen his logical and thinking. He is also an active badminton player. His programming and building expertise are essential for bringing the team's autonomous car robot to life, from coding its navigation logic, to assembling and designing the robot. Social:<a href="https://www.instagram.com/naithanvelasco/?utm_source=ig_web_button_share_sheet" target="_blank">@naithanvelasco</a>
  
  ## 1.2 Team Coordination
  The we have the team structured itself with clear roles and regular communication to ensure progress throughout the proccess. We have different roles, the role—programmer, builder, technical writer, each are designated for each tasks.
@@ -132,15 +132,15 @@ Overall, we chose SPIKE Prime because it is reliable, flexible, and well-suited 
  
  # <b> 3. Mobility Management </b>
  ## 3.1 Bill of Materials
-| Picture| Components | Quantity | Purpose |
-| :---: | :---: | :---: | :---: |
-| | LEGO Technic Large Hub| 1 | used to power the robot
-| | Medium Motor | 1 | used for steering
-| | Large Motor | 1 | used for driving of the rear mechanism of the robot
-| | Distance Sensors | 2 | used to dectects the wall, in front and one on its side
-|| Husky Lense | 1 | a device that is used to detect the colored obstacle 
-|| Jumper Wire| several were used | used to connect the camera onto the LPF 2
-| | LEGO Powered Up Function 2 | 1 |  transporting data camera to hub via jumper wire
+| Components | Quantity | Purpose |
+| :---: | :---: | :---: |
+| LEGO Technic Large Hub| 1 | used to power the robot
+| Medium Motor | 1 | used for steering
+| Large Motor | 1 | used for driving of the rear mechanism of the robot
+| Distance Sensors | 2 | used to dectects the wall, in front and one on its side
+| Husky Lense | 1 | a device that is used to detect the colored obstacle 
+| Jumper Wire| several were used | used to connect the camera onto the LPF 2
+| LEGO Powered Up Function 2 | 1 |  transporting data camera to hub via jumper wire
 
  ## 3.2 Wiring Diagram
  ## 3.3 Steering Mechanism
