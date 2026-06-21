@@ -24,6 +24,9 @@ Introducing Polytechnic College of La Union (PCLU) 's Team B of Future Engineer 
 - 🤖 <b>[5. Managing Challenges](#5-managing-challenges)</b>
     - [5.1 Open Challenge](#51-open-challenge)
     - [5.2 Obstacle Challenge](#52-obstacle-challenge)
+ - [6. Weekly Logs](#6-weekly-logs)
+ - [7, Step By Step Building Instructions](#7-step-by-step-building-instruction)
+      
     
 
 
@@ -453,7 +456,7 @@ Robot's decision-making:
 | WEEK 3 |During the third week, the team conducted the open challenge run and continued testing the camera connected to the hub, as there were issues with its connection to both the hub and the network. The programmer also performed Python coding tests using the SPIKE programming environment for the open challenge and evaluated its performance. In addition, the team worked on the GitHub README.md repository for the engineering research documentation. During the same week,the team attended FELTA dry run event, where they tested their robot on the official track. During this test, the team discovered that the robot started drifting and stopping toward the middle of the path while running, due to instability in its driving mechanism, this event has helped the team determined the robot's mechanism problem. |
 
 
-
-
- 
+# 7. Step-by-Step Building Instructions
+> [!NOTE]
+> This is the building instructions for <a href="others/future engineer 3d base.pdf" target="_blank">our robot.</a>
 
