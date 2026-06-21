@@ -34,23 +34,55 @@ This presents the Engineering Document of Polytechnic Colege of La Union-Team B 
  
 This repository includes information about our robot's mechanism, integration, logic and it also includes our journey on building the robot. This is supported by resources such as images, diagrams and recorded demonstration enable to provide clear understanding and transparency about the work.
 
+# Team and Vehicle Name
+<div align="center"><img width="30%" alt="fe_teamb_logo" src="https://github.com/user-attachments/assets/bcddf54e-7140-4462-8093-7a56e173fd35" /></div>
+
+## <div align="center"> TAYAG </div>
+
+The name “Tayag” was thoughtfully chosen to represent both the team’s identity and the team's creation--the robot vehicle. 
+It comes from the word “tayag,” which means high or elevated. It reflects the our goal of reaching greater heights through innovation, creativity, and advanced technology. In a deeper sense, “Tayag” symbolizes the team’s ambition to rise above challenges and continuously improve.
+
+Just like something that stands high and prominent, the team aims to develop a robot that performs with precision, intelligence, and balance.
+The name captures the idea of pushing limits and rising above average results.
+
+It's meaning is further strengthened by the team’s inspiration from the Philippine eagle, that is known for its powerful flight and ability to soar at great heights, the Philippine eagle represents strength, focus, and dominance in its environment. This symbol influenced the team’s mindset, encouraging them to aim high, stay sharp, and move with purpose, just like the eagle in flight. The team made the connection between Tayag and the Philippine eagle perfectly aligns with the theme: “limitlessly soaring with technology.” 
+
+Just as the eagle soars freely across vast skies, the team envisions their robot overcoming obstacles and achieving success without limits.
+In essence, Tayag is more than just a name, it represents elevation, strength, and the team's boundless ambition. 
+It reflects a team that is determined to rise, innovate, and soar beyond expectations through the power of technology.
+
+
  ## 1.1 Team Overview
- | Name | Age | About Us
- | :---: | :---: | :---: |
- | Aliana Marie L. Marquez | 17 | She is the technical writer/protyper of the PCLU Team B under the category Future Engineer on WRO Philippines 2026. She enjoys writing, sketching and painting—typical creative pursuits. She is also explorative and eager to learn, especially when faced with challenges that engaged her intellect. Social:<a href="https://www.instagram.com/ml.yvnx?igsh=MXUzdHVyOXJxN2N6NA==" target="_blank">@ml.yvnx</a>|
- | Kendrick Nathaniel L. Garcia | 16 |The builder and assistant document writer of the team. He enjoys playing online games and engaging in physical activities such as basketball—both of which sharpen his strategic thinking and teamwork, that is also an essential skills for constructing and troubleshooting the car robot. In combining his creativity and hands-on problem-solving skills he brings their project to life. Social:<a href="https://www.instagram.com/urlazy_kenken?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">@urlazy_kenken</a>|
- | Naithan T. Velasco | 17 | The brain of the team. He serves as both programmer and builder. He is drawn to problem-solving activities such as chess, solving Rubik's cubes, and playing online games, which sharpen his logical and thinking. He is also an active badminton player. His programming and building expertise are essential for bringing the team's autonomous car robot to life, from coding its navigation logic, to assembling and designing the robot. Social:<a href="https://www.instagram.com/naithanvelasco/?utm_source=ig_web_button_share_sheet" target="_blank">@naithanvelasco</a>
- 
+| Picture | Name | Age | About Us
+| :---: | :---: | :---: | :---: |
+| <img width="100%" src="t.photos/indiv. pic/aliana.jpg" > | Aliana Marie L. Marquez | 17 | She is the technical writer/protyper of the PCLU Team B under the category Future Engineer on WRO Philippines 2026. She enjoys writing, sketching and painting—typical creative pursuits. She is also explorative and eager to learn, especially when faced with challenges that engaged her intellect. Social:<a href="https://www.instagram.com/ml.yvnx?igsh=MXUzdHVyOXJxN2N6NA==" target="_blank">@ml.yvnx</a>|
+| <img width="100%" src="t.photos/indiv. pic/kendrick.jpg"> | Kendrick Nathaniel L. Garcia | 16 |The builder and assistant document writer of the team. He enjoys playing online games and engaging in physical activities such as basketball—both of which sharpen his strategic thinking and teamwork, that is also an essential skills for constructing and troubleshooting the car robot. In combining his creativity and hands-on problem-solving skills he brings their project to life. Social:<a href="https://www.instagram.com/urlazy_kenken?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">@urlazy_kenken</a>|
+| <img width="100%" src="t.photos/indiv. pic/naithan.jpg"> | Naithan T. Velasco | 17 | The brain of the team. He serves as both programmer and builder. He is drawn to problem-solving activities such as chess, solving Rubik's cubes, and playing online games, which sharpen his logical and thinking. He is also an active badminton player. His programming and building expertise are essential for bringing the team's autonomous car robot to life, from coding its navigation logic, to assembling and designing the robot. Social:<a href="https://www.instagram.com/naithanvelasco/?utm_source=ig_web_button_share_sheet" target="_blank">@naithanvelasco</a>
+
+| Formal Picture | Funny Picture |
+| :---: | :---: |
+| <img width="1960" height="1336" alt="formal_photo_teamb_fe" src="https://github.com/user-attachments/assets/3fadbec3-17e2-40bc-950f-5ea307afa266" />|<img width="1960" height="1336" alt="fe_funny_photo_teamb" src="https://github.com/user-attachments/assets/6ce96a19-4296-485f-a347-416cd3bf27a3" />|
  ## 1.2 Team Coordination
  We have the team structured itself with clear roles and regular communication to ensure progress throughout the proccess. We have different roles, the role—programmer, builder, technical writer, each are designated for each tasks.
  For us to have a seamless collaboration, each shared a different vision and opinion to improve our project. Beyond tasks execution, se hsve to perform mutual accountability and peer learning. To us balanced structure of roles, frequent communication and a shared reponsibility would make the our team to work more efficiently and move steadily from the start up inro the competition.
- <br><br>Team Members: **Aliana Marquez, Naithan Tuvera, Kendrick Garcia**
- <br>Team Coach: **Michael James Estipular Ergino**
+| <img width="900" height="500" alt="fe_team_b_with_coach" src="https://github.com/user-attachments/assets/249d11cf-dd7d-461d-8a97-d3167b258a59" /> |
+| :---: |
+| Team Photo With Coach |
+
+Team Members: **Aliana Marquez, Naithan Tuvera, Kendrick Garcia** 
+
+Team Coach: **Michael James Estipular Ergino**
 
  ## 1.3 Participation Motives
  We are honored to represent Polytechnic College of La Union in the WRO Philippines 2026, under the Future Engineer category. We believe that this competition's challenges is the best way to learn and prepare on rapidly changing technology.  Representing our school gives us extra motivation to push harder and make our istitution proud. <br>This competition gives us the opportunity to showcase our skills in STEM and allows us to apply it through robotics.  Ultimately, the team is motivated by the purpose of contributing to the future mobility as we vision this activity as a stepping stone toward real-world solution. Together, we will join this competition to build something meaningful, grow as engineers and make our school proud.
 
  # <b>2. About the Robotic Vehicle</b>
+
+ ## Robot's Specification
+ |Weight| 57.60g|
+ |---: | ---: |
+ |Length| 22cm |
+
  ## 2.1 Logic of the Robotic Vehicle
  The team developed the robotic vehicle using the LEGO Spike Prime System together with the design, sensors and programming to perform autonomous in two different challenges. This system can be used to both the Open Challenge and the Obstacle Challenge:
 1. The operation begins when the robot is powered on using the Start button. Once activated, the robot will do its programmed instructions, which decides whether it will go in a clockwise or counterclockwise direction. This command build the robot's navigation throughout the lap.
@@ -64,6 +96,7 @@ This repository includes information about our robot's mechanism, integration, l
 5. The robot continues until its objective is completed. In the Open Challenge, the robot stops after successfully completing three (3) laps. In the Obstacle Challenge, the robot stops only after completing three (3) laps while  detecting and avoiding all obstacles. Once these conditions have been met, the robot will automatically ends operation.
 
  ## 2.2 Prototype 
+ <img width=100% src=v.photos/protoype/received_1005707658834317.jpeg>
  The first design/prototype of the robotic vehicle included distance sensors on each side, totalling two sensors. it also had one color sensor underneath the robot, which was used to detect the orange and blue lines that determine the vehicle's turning (clockwise or counterclockwise).
 
  During the initial testing, the robot performed well, however, something was lacking. It was observed that the vehicle moved very slowly, even though it was already set to the maximum speed in the program. The team determined that the issue was due to the design.
@@ -143,6 +176,8 @@ Overall, we chose SPIKE Prime because it is reliable, flexible, and well-suited 
 | <img width="736" height="736" alt="LPF2" src="https://github.com/user-attachments/assets/ae1ac731-d5d9-4c8c-b739-6326d72940b4" />|LEGO Powered Up Function 2 | 1 |  transporting data camera to hub via jumper wire
 
  ## 3.2 Wiring Diagram
+ <img width="1536" height="2048" alt="724396953_1667608994466501_126879320797924330_n" src="https://github.com/user-attachments/assets/75b47471-a1a2-464a-b258-72c20f3a6ea0" />
+
  ## 3.3 Steering Mechanism
  The robot uses an Ackermann Steering Mechanism that is controlled by a SPIKE Prime Medium Angular Motor. The purpose of this is to achieve accurate turning that are similar to real vehicles.
 
@@ -413,9 +448,9 @@ Robot's decision-making:
 
 | WEEKS | ACTIVITIES|
 |:---: | :---:|
-| WEEK 1 | The team built their first robot design and tested it. During testing, they identified a problem: the robot car was too heavy, which negatively affected its movement and made it slow.In the following days, after identifying the issue, the team modified the robot. The builder created a new base design with several structural changes, including the placement of the motors. The robot became smaller and lighter, making it easier to move. After testing, the team observed smoother performance.Next, they tested the program using trial and error. The team utilized ultrasonic (distance) sensors to detect the front and side walls. The robot successfully completed the third lap; however, it was still quite slow, and errors occurred during turning when the sensors failed to properly detect the walls. On the same week, the builder modified the robot again by improving its structure. A differential was added to the rear wheels, enhancing the robot’s driving system. This modification was expected to make the robot run faster and more smoothly.|
-| WEEK 2 | During the second week, the prototyper created a 3D model of the robot. However, the builder made adjustments to the base structure of the robot car and began planning improvements to enhance the robot’s overall mechanism. As a result, the 3D model was not yet fully completed. At the same time, the programmer conducted a test run and tested the camera to determine if it was suitable and compatible with the LEGO SPIKE Prime system.|
-| WEEK 3 |During the third week, the team conducted the open challenge run and continued testing the camera connected to the hub, as there were issues with its connection to both the hub and the network. The programmer also performed Python coding tests using the SPIKE programming environment for the open challenge and evaluated its performance.In addition, the team worked on the GitHub README.md repository for the engineering research documentation. During the same week,the team attended FELTA dry run event, where they tested their robot on the official track. During this test, (we)the team discovered that the robot started drifting toward the middle of the path while running, due to instability in its driving mechanism. |
+| WEEK 1 | The team built their first robot design and tested it. During testing, they identified a problem: the robot car was too heavy, which negatively affected its movement and made it slow.In the following days, after identifying the issue, the team modified the robot. The builder created a new base design with several structural changes, including the placement of the motors. The robot became smaller and lighter, making it easier to move. After testing, the team observed smoother performance. Next, they tested the program using trial and error. The team utilized ultrasonic (distance) sensors to detect the front and side walls. The robot successfully completed the third lap; however, it was still quite slow, and errors occurred during turning when the sensors failed to properly detect the walls. On the same week, the builder modified the robot again by improving its structure. A differential was added to the rear wheels, enhancing the robot’s driving system. This modification was expected to make the robot run faster and more smoothly.|
+| WEEK 2 | During the second week, the team created a 3D model of the robot using Studio v2. However, the builder made adjustments to the base structure of the robot car and began planning improvements to the robot’s overall mechanism. As a result, the 3D model was not yet fully completed yet. At the same time, the programmer conducted a test run and tested the camera to determine if it was compatible with the LEGO SPIKE Prime system.|
+| WEEK 3 |During the third week, the team conducted the open challenge run and continued testing the camera connected to the hub, as there were issues with its connection to both the hub and the network. The programmer also performed Python coding tests using the SPIKE programming environment for the open challenge and evaluated its performance. In addition, the team worked on the GitHub README.md repository for the engineering research documentation. During the same week,the team attended FELTA dry run event, where they tested their robot on the official track. During this test, the team discovered that the robot started drifting and stopping toward the middle of the path while running, due to instability in its driving mechanism, this event has helped the team determined the robot's mechanism problem. |
 
 
 
