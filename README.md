@@ -163,7 +163,7 @@ Team Coach: **Michael James Estipular Ergino**
  The team selected the LEGO spike prime for the autonomous robot car due to ease of use, versatility and suitability for educational robotics. It offers an efficient combination of hardware, software, and flexibility for building autonomous systems.
 -  The SPIKE Prime hub acts as an all-in-one controller with built-in processing, ports, and battery, which simplifies our wiring and system design. This makes our robot more compact and reliable.
 -  the motors and sensors are highly compatible and easy to integrate. The large motor provides enough power for driving, while the medium motor allows precise control for steering. The distance sensors give accurate real-time data, which is essential for wall detection and navigation.
-- Another reason is the modularity of LEGO Technic parts. It allows us to quickly build, test, and improve our design, especially for mechanisms like our Ackermann steering and differential system.
+- Another reason is the modularity of LEGO Technic parts. It allows us to quickly build, test, and improve our design, especially for mechanisms like our Parallel steering and differential system.
 - SPIKE Prime supports programmable logic, enabling us to create a fully autonomous robot that can make decisions based on sensor input.
 Overall, we chose SPIKE Prime because it is reliable, flexible, and well-suited for developing an efficient and accurate autonomous robot
  
@@ -172,12 +172,11 @@ Overall, we chose SPIKE Prime because it is reliable, flexible, and well-suited 
 | Picture| Components | Quantity | Purpose |
 |:---:| :---: | :---: | :---: |
 | <img width="100%" src="others/BOM/TechnicSpikeHub.jpg" > |LEGO Technic Large Hub| 1 | used to power the robot
-| <img width="736" height="736" alt="MediumAngularMotor" src="https://github.com/user-attachments/assets/7f89d8dc-a3ef-499c-b244-8596db400603" />| Medium Motor | 1 | used for steering
-| <img width="736" height="736" alt="LargeAngularMotor" src="https://github.com/user-attachments/assets/866299bf-008e-4e42-8092-8b0be2dc5bce" />|Large Motor | 1 | used for driving of the rear mechanism of the robot
-| <img width="736" height="736" alt="Distancesensors" src="https://github.com/user-attachments/assets/b469a83b-bc39-4444-9bee-46cb3719ebef" />|Distance Sensors | 2 | used to dectects the wall, in front and one on its side
-| <img width="736" height="736" alt="huskylense" src="https://github.com/user-attachments/assets/636ad106-82bc-47d1-b7d5-611aa4ab68ed" />|Husky Lense | 1 | a device that is used to detect the colored obstacle 
-| <img width="736" height="736" alt="jumperwires" src="https://github.com/user-attachments/assets/e6c491b2-aaae-45b9-ba3e-65848677e9c3" />|Jumper Wire| several were used | used to connect the camera onto the LPF 2
-| <img width="736" height="736" alt="LPF2" src="https://github.com/user-attachments/assets/ae1ac731-d5d9-4c8c-b739-6326d72940b4" />|LEGO Powered Up Function 2 | 1 |  transporting data camera to hub via jumper wire
+| <img width="736" height="736" alt="MediumAngularMotor" src="https://github.com/user-attachments/assets/7f89d8dc-a3ef-499c-b244-8596db400603" />| Medium Motor | 1 | Used to control the robot’s steering. It rotates the front wheels left or right with angle control, allowing the robot to turn precisely.
+| <img width="736" height="736" alt="LargeAngularMotor" src="https://github.com/user-attachments/assets/866299bf-008e-4e42-8092-8b0be2dc5bce" />|Large Motor | 1 | Used in the rear driving mechanism to power the back wheels and drive the robot forward. It provides strong power and torque, allowing the robot to move smoothly and carry its weight  during the run. alt="Distancesensors" src="https://github.com/user-attachments/assets/b469a83b-bc39-4444-9bee-46cb3719ebef" />|Distance Sensors | 2 | The distance sensors are used to detect walls that are one placed in front and one on the side. They measure how far the robot is from the walls, helping it avoid collisions and maintain proper distance from the walls.
+| <img width="736" height="736" alt="huskylense" src="https://github.com/user-attachments/assets/636ad106-82bc-47d1-b7d5-611aa4ab68ed" />|Husky Lense | 1 | Used to detect colored obstacles. It recognizes colors like red and green, allowing the robot to decide whether to turn left or right during the obstacle challenge.
+| <img width="736" height="736" alt="jumperwires" src="https://github.com/user-attachments/assets/e6c491b2-aaae-45b9-ba3e-65848677e9c3" />|Jumper Wire| several were used | Used to connect the HuskyLens camera to the SPIKE Prime hub. They allow data communication between the camera and the hub, so that the robot can receive information about the detected colored obstacles.
+| <img width="736" height="736" alt="LPF2" src="https://github.com/user-attachments/assets/ae1ac731-d5d9-4c8c-b739-6326d72940b4" />|LEGO Powered Up Function 2 | 1 | connected to jumper wires and is responsible for transporting data from the HuskyLens camera to the SPIKE Prime hub. It enables communication between the camera and the hub, allowing the robot to receive color detection data.
 
  ## 3.2 Wiring Diagram
  <img width="1536" height="2048" alt="724396953_1667608994466501_126879320797924330_n" src="https://github.com/user-attachments/assets/75b47471-a1a2-464a-b258-72c20f3a6ea0" />
