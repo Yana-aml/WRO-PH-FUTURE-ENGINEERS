@@ -85,7 +85,10 @@ Team Coach: **Michael James Estipular Ergino**
  ## Robot's Specification
  |Weight| 57.60g|
  |---: | ---: |
- |Length| 22cm |
+ |Length| 24cm |
+ |Width| 14cm |
+ |Height| 21cm |
+ 
 
  ## 2.1 Logic of the Robotic Vehicle
  The team developed the robotic vehicle using the LEGO Spike Prime System together with the design, sensors and programming to perform autonomous in two different challenges. This system can be used to both the Open Challenge and the Obstacle Challenge:
