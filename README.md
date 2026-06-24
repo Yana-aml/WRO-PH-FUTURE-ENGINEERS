@@ -80,6 +80,7 @@ Team Coach: **Michael James Estipular Ergino**
  We are honored to represent Polytechnic College of La Union in the WRO Philippines 2026, under the Future Engineer category. We believe that this competition's challenges is the best way to learn and prepare on rapidly changing technology.  Representing our school gives us extra motivation to push harder and make our istitution proud. <br>This competition gives us the opportunity to showcase our skills in STEM and allows us to apply it through robotics.  Ultimately, the team is motivated by the purpose of contributing to the future mobility as we vision this activity as a stepping stone toward real-world solution. Together, we will join this competition to build something meaningful, grow as engineers and make our school proud.
 
  # <b>2. About the Robotic Vehicle</b>
+<img width=100% src="v.photos/final robot/robot_angle.jfif">
 
  ## Robot's Specification
  |Weight| 57.60g|
@@ -182,15 +183,15 @@ Overall, we chose SPIKE Prime because it is reliable, flexible, and well-suited 
  <img width="1536" height="2048" alt="724396953_1667608994466501_126879320797924330_n" src="https://github.com/user-attachments/assets/75b47471-a1a2-464a-b258-72c20f3a6ea0" />
 
  ## 3.3 Steering Mechanism
- The robot uses an Ackermann Steering Mechanism that is controlled by a SPIKE Prime Medium Angular Motor. The purpose of this is to achieve accurate turning that are similar to real vehicles.
+The robot utilizes a parallel steering mechanism, in which both front wheels turn at the same angle and remain parallel to each other during movement. This steering system is powered by a LEGO SPIKE Prime medium angular motor, the motor is responsible for controlling the direction of the robot. The motor is mechanically connected to both front wheels through a combination of linkages and components, allowing the wheels to rotate simultaneously whenever the motor is activated. When the motor turns in one direction, both wheels steer left and when it turns in the opposite direction, both wheels steer right.
 
-The medium motor is connected to the front wheels through Technic linkages. When the motor rotates, it pushes and pulls the linkage system, causing the front wheels to turn left or right.
+Parallel steering ensures that the steering of the robot is synchronized, meaning there is no difference in the angle between the left and right wheels. This applied steering to the robot maintains a stable and predictable path when turning. The use of a medium motor is particularly important because it provides sufficient torque and precise angular control, enabling accurate adjustments in steering angle. That precision required for navigation tasks such as following a path, avoiding walls using distance sensors, and responding to obstacle detection using the camera system.
 
-What makes the robot effective is the use of Ackermann steering, in which the inner wheel turns at a sharper angle than the outer wheel during a turn. 
+In terms of design, parallel steering is relatively simple compared to more complex steering geometries. It requires fewer components, easier to assemble, and is also more straightforward to program. Simplicity reduces the chances of mechanical errors and makes troubleshooting easier during testing and development. Additionally, because both wheels move together, the system responds quickly to commands, which improves the robot’s overall responsiveness during challenges such as the open challenge and obstacle challenge.
 
-The steering system allows both wheels to follow their correct paths, reducing friction and preventing slipping. Because of this, the vehicle can perform smoother curves, maintain stability, and achieve more precise navigation even when avoiding walls and obstacles.
+However, one limitation of parallel steering is that both wheels follow the same angle even when turning along a curved path. It can cause slight slipping or friction between the wheels and the surface, especially during sharper turns, since the inner and outer wheels ideally should follow different radii. But the effect is minimal like the competition track, where turns are generally smooth and predictable.
 
-The combination of the medium motor and Ackermann steering improves the robot’s control, efficiency, and accuracy during movement.
+To sum all the use of parallel steering with the spike primea medium motor provides a balance between simplicity, control, and reliability. It allows the robot to perform consistent and stable turns while keeping the mechanical design efficient and easy to manage, making it highly suitable for the competition requirements.
  ## 3.4 Driving Mechanism
 The robot uses a rear-wheel driving mechanism powered by a single SPIKE Prime large angular motor. This motor provides the main source of movement for the robot.
 
